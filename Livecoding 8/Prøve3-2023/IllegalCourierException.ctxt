@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IllegalCourierException
+comment1.params=illegal_courier
+comment1.target=IllegalCourierException(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getIllegalCourier()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=OnlineOrder
+comment1.params=customer\ product\ cost
+comment1.target=OnlineOrder(java.lang.String,\ java.lang.String,\ int)
+comment2.params=courier
+comment2.target=void\ deliver(java.lang.String)
+comment3.params=
+comment3.target=void\ notifyCustomer()
+comment4.params=
+comment4.target=void\ handleOrder()
+numComments=5
