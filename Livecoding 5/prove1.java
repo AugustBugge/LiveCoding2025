@@ -11,6 +11,7 @@ class prove1{
         }
     }
 
+
     static void test0() {
         System.out.println(calculate(10));
         System.out.println(calculate(5));
