@@ -10,10 +10,7 @@ public class Rando {
         list.add("zero");
         list.add("one");
         list.add("two");
-        list.add("three");
-        list.add("four");
-        
-        int chosenIndex = r.nextInt(list.size());
+        list.add("three")        int chosenIndex = r.nextInt(list.size());
         System.out.println(list.get(chosenIndex));
         
         System.out.println(r.nextInt());
